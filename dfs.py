@@ -6,8 +6,5 @@ def on_key_down(key):
 def update():
     pass
 
-def draw():
-    pass
-
 
 pgzrun.go()
